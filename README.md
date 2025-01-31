@@ -13,7 +13,7 @@ I'm Rohab Kashif, a passionate tech enthusiast with a keen interest in all thing
 
 - **Programming Languages:** C, Python, JavaScript, C++, HTML & CSS, Node.js, React.js
 - **Technologies & Tools:** AI/ML libraries such as scikit-learn, CUDA, Playwright, TensorFlow, and PyTorch; Git, GitHub, Docker
-- **Areas of Interest:** Software development, web development, data analysis, computer architecture
+- **Areas of Interest:** Artifivial Intelligence, Machine Learning, Software development, Web development, Wata analysis
 
 ## Projects
 
